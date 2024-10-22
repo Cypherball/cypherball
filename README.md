@@ -4,19 +4,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypherball" alt="cypherball" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@nitish_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/nitish_dev_?logo=twitter&style=for-the-badge" alt="@nitish_dev_" /></a> </p>
+<p align="left"> <a href="https://x.com/@nitish_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/nitish_dev_?logo=twitter&style=for-the-badge" alt="@nitish_dev_" /></a> </p>
 
 - 🔭 I’m currently working on **building the best Accounting SaaS @ <a href="https://refrens.com" target="_blank" rel="noreferrer">Refrens</a>.**
 
-- 🌱 I’m currently learning **AI/ML.**
+- 🌱 I’m currently learning **Everything**
 
-- 💬 Ask me about **React, Next Js, Node Js, Python.**
+- 💬 Ask me about **React Native, Next Js, Node Js, Python.**
 
 - 📫 Reach Me: **nitishdevadiga@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nitish_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitish_dev_" height="30" width="40" /></a>
+<a href="https://x.com/@nitish_dev_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nitish_dev_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nitish-devadiga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish-devadiga" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc9_dakmtxlechjlor8_wjlw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc9_dakmtxlechjlor8_wjlw" height="30" width="40" /></a>
 </p>
