@@ -1,4 +1,4 @@
-<h3 align="center">Hey there! I'm a full-stack developer working from Bengaluru, India. I like coffee ☕, beers 🍺, travelling 🏖️, and coding 👨‍💻 of course.</h3>
+<h3 align="center">Hey there! I'm a full-stack developer working from Mumbai, India. I like coffee ☕, beers 🍺, travelling 🏖️, and coding 👨‍💻 of course.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypherball&label=Profile%20views&color=0e75b6&style=flat" alt="cypherball" /> </p>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://x.com/@nitish_dev_" target="blank"><img src="https://img.shields.io/twitter/follow/nitish_dev_?logo=twitter&style=for-the-badge" alt="@nitish_dev_" /></a> </p>
 
-- 🔭 I’m currently working on **building the best Accounting SaaS @ <a href="https://refrens.com" target="_blank" rel="noreferrer">Refrens</a>.**
+- 🔭 I’m currently working on **building the best Performance Management and OKRs suite @ <a href="https://www.betterworks.com/" target="_blank" rel="noreferrer">Betterworks</a>.**
 
 - 🌱 I’m currently learning **Everything**
 
